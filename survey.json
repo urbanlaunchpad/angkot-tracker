@@ -1,0 +1,1297 @@
+{
+    "Survey": {
+        "Chapters": [
+            {
+                "Chapter": "Language/Bahasa",
+                "Questions": [
+                    {
+                        "id": "language",
+                        "Question": "Language/Bahasa",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Bahasa Indonesia",
+                                "Jump": "Iq1age"
+                            },
+                            {
+                                "Answer": "English",
+                                "Jump": "Eq1age"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Chapter": "English",
+                "Questions": [
+                    {
+                        "id": "Eq1age",
+                        "Question": "Age",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "0-10"
+                            },
+                            {
+                                "Answer": "10-19"
+                            },
+                            {
+                                "Answer": "20-29"
+                            },
+                            {
+                                "Answer": "30-39"
+                            },
+                            {
+                                "Answer": "40-49"
+                            },
+                            {
+                                "Answer": "50-59"
+                            },
+                            {
+                                "Answer": "60-69"
+                            },
+                            {
+                                "Answer": "70+"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Eq2income",
+                        "Question": "Household income means the cumulative total of income for the family",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "< Rp 500.000"
+                            },
+                            {
+                                "Answer": "Rp 500.000 - Rp 1.000.000"
+                            },
+                            {
+                                "Answer": "Rp 1.000.000 - Rp 2.500.000"
+                            },
+                            {
+                                "Answer": "Rp 2.500.000 - Rp 5.000.000"
+                            },
+                            {
+                                "Answer": "> Rp 5.000.000"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Eq3mobile",
+                        "Question": "Mobile phone ownership",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Yes"
+                            },
+                            {
+                                "Answer": "No"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Eq4smartphone",
+                        "Question": "Mobile phone ownership",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Smartphone"
+                            },
+                            {
+                                "Answer": "Not smartphone"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Eq5start",
+                        "Question": "Start",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "BUMI"
+                            },
+                            {
+                                "Answer": "KARANGASEM"
+                            },
+                            {
+                                "Answer": "PAJANG"
+                            },
+                            {
+                                "Answer": "PUCANG SAWIT"
+                            },
+                            {
+                                "Answer": "JAGALAN"
+                            },
+                            {
+                                "Answer": "PURWODINIGRATAN"
+                            },
+                            {
+                                "Answer": "SEWU"
+                            },
+                            {
+                                "Answer": "GANDEKAN"
+                            },
+                            {
+                                "Answer": "SANGKRAH"
+                            },
+                            {
+                                "Answer": "PASAR KLIWON"
+                            },
+                            {
+                                "Answer": "KEDUNG LUMBU"
+                            },
+                            {
+                                "Answer": "SEMANGGI"
+                            },
+                            {
+                                "Answer": "JOYOSURAN"
+                            },
+                            {
+                                "Answer": "DANUKUSUMAN"
+                            },
+                            {
+                                "Answer": "JOYOTAKAN"
+                            },
+                            {
+                                "Answer": "BALUWARTI"
+                            },
+                            {
+                                "Answer": "GAJAHAN"
+                            },
+                            {
+                                "Answer": "JAYENGAN"
+                            },
+                            {
+                                "Answer": "KRATONAN"
+                            },
+                            {
+                                "Answer": "SERENGAN"
+                            },
+                            {
+                                "Answer": "TIPES"
+                            },
+                            {
+                                "Answer": "PANULARAN"
+                            },
+                            {
+                                "Answer": "KEMLAYAN"
+                            },
+                            {
+                                "Answer": "KAUMAN"
+                            },
+                            {
+                                "Answer": "KAMPUNG BARU"
+                            },
+                            {
+                                "Answer": "KEPRABON"
+                            },
+                            {
+                                "Answer": "TIMURAN"
+                            },
+                            {
+                                "Answer": "SRIWEDARI"
+                            },
+                            {
+                                "Answer": "PENUMPING"
+                            },
+                            {
+                                "Answer": "KETELAN"
+                            },
+                            {
+                                "Answer": "PUNGGAWAN"
+                            },
+                            {
+                                "Answer": "MANKUBUMEN"
+                            },
+                            {
+                                "Answer": "KESTALAN"
+                            },
+                            {
+                                "Answer": "SETABELAN"
+                            },
+                            {
+                                "Answer": "KEPATIHAN KULON"
+                            },
+                            {
+                                "Answer": "KEPATIHAN WETAN"
+                            },
+                            {
+                                "Answer": "TEGALHARJO"
+                            },
+                            {
+                                "Answer": "JEBRES"
+                            },
+                            {
+                                "Answer": "GILINGAN"
+                            },
+                            {
+                                "Answer": "SUMBER"
+                            },
+                            {
+                                "Answer": "MANAHAN"
+                            },
+                            {
+                                "Answer": "PURWOSARI"
+                            },
+                            {
+                                "Answer": "LAWEYAN"
+                            },
+                            {
+                                "Answer": "SONDAKAN"
+                            },
+                            {
+                                "Answer": "KERTEN"
+                            },
+                            {
+                                "Answer": "JAJAR"
+                            },
+                            {
+                                "Answer": "BANYUANYAR"
+                            },
+                            {
+                                "Answer": "MOJOSONGO"
+                            },
+                            {
+                                "Answer": "KADIPIRO"
+                            },
+                            {
+                                "Answer": "NUSUKAN"
+                            },
+                            {
+                                "Answer": "Karanganyar (OS)"
+                            },
+                            {
+                                "Answer": "Boyolasi (OS)"
+                            },
+                            {
+                                "Answer": "Sukoharjo (OS)"
+                            },
+                            {
+                                "Answer": "Kartasura (OS)"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Eq6destination",
+                        "Question": "Destination",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "BUMI"
+                            },
+                            {
+                                "Answer": "KARANGASEM"
+                            },
+                            {
+                                "Answer": "PAJANG"
+                            },
+                            {
+                                "Answer": "PUCANG SAWIT"
+                            },
+                            {
+                                "Answer": "JAGALAN"
+                            },
+                            {
+                                "Answer": "PURWODINIGRATAN"
+                            },
+                            {
+                                "Answer": "SEWU"
+                            },
+                            {
+                                "Answer": "GANDEKAN"
+                            },
+                            {
+                                "Answer": "SANGKRAH"
+                            },
+                            {
+                                "Answer": "PASAR KLIWON"
+                            },
+                            {
+                                "Answer": "KEDUNG LUMBU"
+                            },
+                            {
+                                "Answer": "SEMANGGI"
+                            },
+                            {
+                                "Answer": "JOYOSURAN"
+                            },
+                            {
+                                "Answer": "DANUKUSUMAN"
+                            },
+                            {
+                                "Answer": "JOYOTAKAN"
+                            },
+                            {
+                                "Answer": "BALUWARTI"
+                            },
+                            {
+                                "Answer": "GAJAHAN"
+                            },
+                            {
+                                "Answer": "JAYENGAN"
+                            },
+                            {
+                                "Answer": "KRATONAN"
+                            },
+                            {
+                                "Answer": "SERENGAN"
+                            },
+                            {
+                                "Answer": "TIPES"
+                            },
+                            {
+                                "Answer": "PANULARAN"
+                            },
+                            {
+                                "Answer": "KEMLAYAN"
+                            },
+                            {
+                                "Answer": "KAUMAN"
+                            },
+                            {
+                                "Answer": "KAMPUNG BARU"
+                            },
+                            {
+                                "Answer": "KEPRABON"
+                            },
+                            {
+                                "Answer": "TIMURAN"
+                            },
+                            {
+                                "Answer": "SRIWEDARI"
+                            },
+                            {
+                                "Answer": "PENUMPING"
+                            },
+                            {
+                                "Answer": "KETELAN"
+                            },
+                            {
+                                "Answer": "PUNGGAWAN"
+                            },
+                            {
+                                "Answer": "MANKUBUMEN"
+                            },
+                            {
+                                "Answer": "KESTALAN"
+                            },
+                            {
+                                "Answer": "SETABELAN"
+                            },
+                            {
+                                "Answer": "KEPATIHAN KULON"
+                            },
+                            {
+                                "Answer": "KEPATIHAN WETAN"
+                            },
+                            {
+                                "Answer": "TEGALHARJO"
+                            },
+                            {
+                                "Answer": "JEBRES"
+                            },
+                            {
+                                "Answer": "GILINGAN"
+                            },
+                            {
+                                "Answer": "SUMBER"
+                            },
+                            {
+                                "Answer": "MANAHAN"
+                            },
+                            {
+                                "Answer": "PURWOSARI"
+                            },
+                            {
+                                "Answer": "LAWEYAN"
+                            },
+                            {
+                                "Answer": "SONDAKAN"
+                            },
+                            {
+                                "Answer": "KERTEN"
+                            },
+                            {
+                                "Answer": "JAJAR"
+                            },
+                            {
+                                "Answer": "BANYUANYAR"
+                            },
+                            {
+                                "Answer": "MOJOSONGO"
+                            },
+                            {
+                                "Answer": "KADIPIRO"
+                            },
+                            {
+                                "Answer": "NUSUKAN"
+                            },
+                            {
+                                "Answer": "Karanganyar (OS)"
+                            },
+                            {
+                                "Answer": "Boyolasi (OS)"
+                            },
+                            {
+                                "Answer": "Sukoharjo (OS)"
+                            },
+                            {
+                                "Answer": "Kartasura (OS)"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Eq7tripkind",
+                        "Question": "What kind of trip is this?",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Work"
+                            },
+                            {
+                                "Answer": "School"
+                            },
+                            {
+                                "Answer": "Shopping"
+                            },
+                            {
+                                "Answer": "Recreation"
+                            },
+                            {
+                                "Answer": "Other"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Eq8othermodes",
+                        "Question": "What other modes have you or will you use on this trip?",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Ojek"
+                            },
+                            {
+                                "Answer": "Bus"
+                            },
+                            {
+                                "Answer": "Becak"
+                            },
+                            {
+                                "Answer": "Car"
+                            },
+                            {
+                                "Answer": "Motorcycle"
+                            },
+                            {
+                                "Answer": "Walk"
+                            },
+                            {
+                                "Answer": " Batik Solo Trans"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Eq9timesaweek",
+                        "Question": "How many times in a week",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Everyday"
+                            },
+                            {
+                                "Answer": "Five times a week"
+                            },
+                            {
+                                "Answer": "Four times a week"
+                            },
+                            {
+                                "Answer": "Three times a week"
+                            },
+                            {
+                                "Answer": "Twice a week"
+                            },
+                            {
+                                "Answer": "Once a week"
+                            },
+                            {
+                                "Answer": "Weekends only"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Eq10commutelenght",
+                        "Question": "How long does your commute takes?",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "0-10 mins"
+                            },
+                            {
+                                "Answer": "10-15 mins"
+                            },
+                            {
+                                "Answer": "15-20 mins"
+                            },
+                            {
+                                "Answer": "20-30 mins"
+                            },
+                            {
+                                "Answer": "30-45 mins"
+                            },
+                            {
+                                "Answer": "45- 1 hour"
+                            },
+                            {
+                                "Answer": ">1 hour"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Eq11cost",
+                        "Question": "How much does it cost?",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "< Rp 5.000"
+                            },
+                            {
+                                "Answer": "Rp 5.000 - Rp 10.000"
+                            },
+                            {
+                                "Answer": "Rp 10.000 - Rp 15.000"
+                            },
+                            {
+                                "Answer": "Rp 15.000 - Rp 20.000"
+                            },
+                            {
+                                "Answer": "> Rp 20.000"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Eq12alternatives",
+                        "Question": "What other alternatives are there?",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Ojek"
+                            },
+                            {
+                                "Answer": "Bus"
+                            },
+                            {
+                                "Answer": "Becak"
+                            },
+                            {
+                                "Answer": "Car"
+                            },
+                            {
+                                "Answer": "Motorcycle"
+                            },
+                            {
+                                "Answer": "Walk"
+                            },
+                            {
+                                "Answer": " Batik Solo Trans"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Eq13routehappiness",
+                        "Question": "Are you happy with the routes?",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Happy"
+                            },
+                            {
+                                "Answer": "Moderately happy"
+                            },
+                            {
+                                "Answer": "Neutral"
+                            },
+                            {
+                                "Answer": "Moderately dissatisfied"
+                            },
+                            {
+                                "Answer": "Very dissatisfied"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Eq14modehappiness",
+                        "Question": "Are you happy with the mode choice?",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Happy"
+                            },
+                            {
+                                "Answer": "Moderately happy"
+                            },
+                            {
+                                "Answer": "Neutral"
+                            },
+                            {
+                                "Answer": "Moderately dissatisfied"
+                            },
+                            {
+                                "Answer": "Very dissatisfied"
+                            }
+                        ],
+                        "Jump": "End"
+                    }
+                ]
+            },
+            {
+                "Chapter": "Bahasa Indonesia",
+                "Questions": [
+                    {
+                        "id": "Iq1age",
+                        "Question": "Berapakah umur anda?",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "0-10"
+                            },
+                            {
+                                "Answer": "10-19"
+                            },
+                            {
+                                "Answer": "20-29"
+                            },
+                            {
+                                "Answer": "30-39"
+                            },
+                            {
+                                "Answer": "40-49"
+                            },
+                            {
+                                "Answer": "50-59"
+                            },
+                            {
+                                "Answer": "60-69"
+                            },
+                            {
+                                "Answer": "70+"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Iq2income",
+                        "Question": "Penghasilan keluarga meliputi total penghasilan seluruh anggota keluarga",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "< Rp 500.000"
+                            },
+                            {
+                                "Answer": "Rp 500.000 - Rp 1.000.000"
+                            },
+                            {
+                                "Answer": "Rp 1.000.000 - Rp 2.500.000"
+                            },
+                            {
+                                "Answer": "Rp 2.500.000 - Rp 5.000.000"
+                            },
+                            {
+                                "Answer": "> Rp 5.000.000"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Iq3mobile",
+                        "Question": "Kepemilikan HP",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Ya"
+                            },
+                            {
+                                "Answer": "Tidak"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Iq4smartphone",
+                        "Question": "Kepemilihan HP",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Smartphone"
+                            },
+                            {
+                                "Answer": "Bukan smartphone"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Iq5start",
+                        "Question": "Start",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "BUMI"
+                            },
+                            {
+                                "Answer": "KARANGASEM"
+                            },
+                            {
+                                "Answer": "PAJANG"
+                            },
+                            {
+                                "Answer": "PUCANG SAWIT"
+                            },
+                            {
+                                "Answer": "JAGALAN"
+                            },
+                            {
+                                "Answer": "PURWODINIGRATAN"
+                            },
+                            {
+                                "Answer": "SEWU"
+                            },
+                            {
+                                "Answer": "GANDEKAN"
+                            },
+                            {
+                                "Answer": "SANGKRAH"
+                            },
+                            {
+                                "Answer": "PASAR KLIWON"
+                            },
+                            {
+                                "Answer": "KEDUNG LUMBU"
+                            },
+                            {
+                                "Answer": "SEMANGGI"
+                            },
+                            {
+                                "Answer": "JOYOSURAN"
+                            },
+                            {
+                                "Answer": "DANUKUSUMAN"
+                            },
+                            {
+                                "Answer": "JOYOTAKAN"
+                            },
+                            {
+                                "Answer": "BALUWARTI"
+                            },
+                            {
+                                "Answer": "GAJAHAN"
+                            },
+                            {
+                                "Answer": "JAYENGAN"
+                            },
+                            {
+                                "Answer": "KRATONAN"
+                            },
+                            {
+                                "Answer": "SERENGAN"
+                            },
+                            {
+                                "Answer": "TIPES"
+                            },
+                            {
+                                "Answer": "PANULARAN"
+                            },
+                            {
+                                "Answer": "KEMLAYAN"
+                            },
+                            {
+                                "Answer": "KAUMAN"
+                            },
+                            {
+                                "Answer": "KAMPUNG BARU"
+                            },
+                            {
+                                "Answer": "KEPRABON"
+                            },
+                            {
+                                "Answer": "TIMURAN"
+                            },
+                            {
+                                "Answer": "SRIWEDARI"
+                            },
+                            {
+                                "Answer": "PENUMPING"
+                            },
+                            {
+                                "Answer": "KETELAN"
+                            },
+                            {
+                                "Answer": "PUNGGAWAN"
+                            },
+                            {
+                                "Answer": "MANKUBUMEN"
+                            },
+                            {
+                                "Answer": "KESTALAN"
+                            },
+                            {
+                                "Answer": "SETABELAN"
+                            },
+                            {
+                                "Answer": "KEPATIHAN KULON"
+                            },
+                            {
+                                "Answer": "KEPATIHAN WETAN"
+                            },
+                            {
+                                "Answer": "TEGALHARJO"
+                            },
+                            {
+                                "Answer": "JEBRES"
+                            },
+                            {
+                                "Answer": "GILINGAN"
+                            },
+                            {
+                                "Answer": "SUMBER"
+                            },
+                            {
+                                "Answer": "MANAHAN"
+                            },
+                            {
+                                "Answer": "PURWOSARI"
+                            },
+                            {
+                                "Answer": "LAWEYAN"
+                            },
+                            {
+                                "Answer": "SONDAKAN"
+                            },
+                            {
+                                "Answer": "KERTEN"
+                            },
+                            {
+                                "Answer": "JAJAR"
+                            },
+                            {
+                                "Answer": "BANYUANYAR"
+                            },
+                            {
+                                "Answer": "MOJOSONGO"
+                            },
+                            {
+                                "Answer": "KADIPIRO"
+                            },
+                            {
+                                "Answer": "NUSUKAN"
+                            },
+                            {
+                                "Answer": "Karanganyar (OS)"
+                            },
+                            {
+                                "Answer": "Boyolasi (OS)"
+                            },
+                            {
+                                "Answer": "Sukoharjo (OS)"
+                            },
+                            {
+                                "Answer": "Kartasura (OS)"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Iq6destination",
+                        "Question": "Tujuan",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "BUMI"
+                            },
+                            {
+                                "Answer": "KARANGASEM"
+                            },
+                            {
+                                "Answer": "PAJANG"
+                            },
+                            {
+                                "Answer": "PUCANG SAWIT"
+                            },
+                            {
+                                "Answer": "JAGALAN"
+                            },
+                            {
+                                "Answer": "PURWODINIGRATAN"
+                            },
+                            {
+                                "Answer": "SEWU"
+                            },
+                            {
+                                "Answer": "GANDEKAN"
+                            },
+                            {
+                                "Answer": "SANGKRAH"
+                            },
+                            {
+                                "Answer": "PASAR KLIWON"
+                            },
+                            {
+                                "Answer": "KEDUNG LUMBU"
+                            },
+                            {
+                                "Answer": "SEMANGGI"
+                            },
+                            {
+                                "Answer": "JOYOSURAN"
+                            },
+                            {
+                                "Answer": "DANUKUSUMAN"
+                            },
+                            {
+                                "Answer": "JOYOTAKAN"
+                            },
+                            {
+                                "Answer": "BALUWARTI"
+                            },
+                            {
+                                "Answer": "GAJAHAN"
+                            },
+                            {
+                                "Answer": "JAYENGAN"
+                            },
+                            {
+                                "Answer": "KRATONAN"
+                            },
+                            {
+                                "Answer": "SERENGAN"
+                            },
+                            {
+                                "Answer": "TIPES"
+                            },
+                            {
+                                "Answer": "PANULARAN"
+                            },
+                            {
+                                "Answer": "KEMLAYAN"
+                            },
+                            {
+                                "Answer": "KAUMAN"
+                            },
+                            {
+                                "Answer": "KAMPUNG BARU"
+                            },
+                            {
+                                "Answer": "KEPRABON"
+                            },
+                            {
+                                "Answer": "TIMURAN"
+                            },
+                            {
+                                "Answer": "SRIWEDARI"
+                            },
+                            {
+                                "Answer": "PENUMPING"
+                            },
+                            {
+                                "Answer": "KETELAN"
+                            },
+                            {
+                                "Answer": "PUNGGAWAN"
+                            },
+                            {
+                                "Answer": "MANKUBUMEN"
+                            },
+                            {
+                                "Answer": "KESTALAN"
+                            },
+                            {
+                                "Answer": "SETABELAN"
+                            },
+                            {
+                                "Answer": "KEPATIHAN KULON"
+                            },
+                            {
+                                "Answer": "KEPATIHAN WETAN"
+                            },
+                            {
+                                "Answer": "TEGALHARJO"
+                            },
+                            {
+                                "Answer": "JEBRES"
+                            },
+                            {
+                                "Answer": "GILINGAN"
+                            },
+                            {
+                                "Answer": "SUMBER"
+                            },
+                            {
+                                "Answer": "MANAHAN"
+                            },
+                            {
+                                "Answer": "PURWOSARI"
+                            },
+                            {
+                                "Answer": "LAWEYAN"
+                            },
+                            {
+                                "Answer": "SONDAKAN"
+                            },
+                            {
+                                "Answer": "KERTEN"
+                            },
+                            {
+                                "Answer": "JAJAR"
+                            },
+                            {
+                                "Answer": "BANYUANYAR"
+                            },
+                            {
+                                "Answer": "MOJOSONGO"
+                            },
+                            {
+                                "Answer": "KADIPIRO"
+                            },
+                            {
+                                "Answer": "NUSUKAN"
+                            },
+                            {
+                                "Answer": "Karanganyar (OS)"
+                            },
+                            {
+                                "Answer": "Boyolasi (OS)"
+                            },
+                            {
+                                "Answer": "Sukoharjo (OS)"
+                            },
+                            {
+                                "Answer": "Kartasura (OS)"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Iq7tripkind",
+                        "Question": "Apakah tujuan dari perjalanan yang anda lakukan?",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Bekerja"
+                            },
+                            {
+                                "Answer": "Sekolah"
+                            },
+                            {
+                                "Answer": "Belanja"
+                            },
+                            {
+                                "Answer": "Rekreasi"
+                            },
+                            {
+                                "Answer": "Lainnya"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Iq8othermodes",
+                        "Question": "Jenis moda apa yang biasa/akan anda gunakan untuk jenis perjalanan semacam ini? ",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Ojek"
+                            },
+                            {
+                                "Answer": "Bus umum"
+                            },
+                            {
+                                "Answer": "Becak"
+                            },
+                            {
+                                "Answer": "Mobil"
+                            },
+                            {
+                                "Answer": "Sepeda motor"
+                            },
+                            {
+                                "Answer": "Jalan kali"
+                            },
+                            {
+                                "Answer": " Batik Solo Trans"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Iq9timesaweek",
+                        "Question": "Berapa kali dalam satu minggu?",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Setiap hari"
+                            },
+                            {
+                                "Answer": "Lima kali dalam seminggu"
+                            },
+                            {
+                                "Answer": "Empat kali dalam seminggu"
+                            },
+                            {
+                                "Answer": "Tiga kali dalam seminggu"
+                            },
+                            {
+                                "Answer": "Dua kali dalam seminggu"
+                            },
+                            {
+                                "Answer": "Sekali dalam seminggu"
+                            },
+                            {
+                                "Answer": "Hanya pada akhir pekan"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Iq10commutelenght",
+                        "Question": "Berapa lama waktu yang diperlukan?",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "0-10 menit"
+                            },
+                            {
+                                "Answer": "10-15 menit"
+                            },
+                            {
+                                "Answer": "15-20 menit"
+                            },
+                            {
+                                "Answer": "20-30 menit"
+                            },
+                            {
+                                "Answer": "30-45 menit"
+                            },
+                            {
+                                "Answer": "45 menit - 1 jam"
+                            },
+                            {
+                                "Answer": ">1 jam"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Iq11cost",
+                        "Question": "Berapa biaya yang dikeluarkan?",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "< Rp 5.000"
+                            },
+                            {
+                                "Answer": "Rp 5.000 - Rp 10.000"
+                            },
+                            {
+                                "Answer": "Rp 10.000 - Rp 15.000"
+                            },
+                            {
+                                "Answer": "Rp 15.000 - Rp 20.000"
+                            },
+                            {
+                                "Answer": "> Rp 20.000"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Iq12alternatives",
+                        "Question": "Apakah ada alternatif moda lain yang sering anda gunakan?",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Ojek"
+                            },
+                            {
+                                "Answer": "Bus umum"
+                            },
+                            {
+                                "Answer": "Becak"
+                            },
+                            {
+                                "Answer": "Mobil"
+                            },
+                            {
+                                "Answer": "Sepeda motor"
+                            },
+                            {
+                                "Answer": "Jalan kali"
+                            },
+                            {
+                                "Answer": " Batik Solo Trans"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Iq13routehappiness",
+                        "Question": "Bagaimana komentar anda mengenai rute yang sudah ada saat ini?",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Puas"
+                            },
+                            {
+                                "Answer": "Cukup puas"
+                            },
+                            {
+                                "Answer": "Netral"
+                            },
+                            {
+                                "Answer": "Kurang puas"
+                            },
+                            {
+                                "Answer": "Sangat tidak puas"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Iq14modehappiness",
+                        "Question": "Apakah anda merasa puas dengan pilihan moda yang ada? ",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "Puas"
+                            },
+                            {
+                                "Answer": "Cukup puas"
+                            },
+                            {
+                                "Answer": "Netral"
+                            },
+                            {
+                                "Answer": "Kurang puas"
+                            },
+                            {
+                                "Answer": "Sangat tidak puas"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Chapter": "End/Akhir",
+                "Questions": [
+                    {
+                        "id": "End",
+                        "Question": "End/Akhir",
+                        "Kind": "MC"
+                    }
+                ]
+            }
+        ],
+        "TableID": "17lxAfHWUGuDQNrV8x4ZJbc9dr87nH5NJrh7jKvBf"
+    },
+    "Tracker": {
+        "Questions": [
+            {
+                "id": "q1",
+                "Question": "Placeholder",
+                "Kind": "MC",
+                "Answers": [
+                    {
+                        "Answer": "Placeholder"
+                    }
+                ]
+            }
+        ],
+        "TableID": "TrackerFusionTableID"
+    }
+}
