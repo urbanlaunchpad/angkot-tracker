@@ -444,7 +444,7 @@
                     {
                         "id": "Eq8othermodes",
                         "Question": "What other modes have you or will you use on this trip?",
-                        "Kind": "MC",
+                        "Kind": "CB",
                         "Answers": [
                             {
                                 "Answer": "Ojek"
@@ -1067,7 +1067,7 @@
                     {
                         "id": "Iq8othermodes",
                         "Question": "Jenis moda apa yang biasa/akan anda gunakan untuk jenis perjalanan semacam ini? ",
-                        "Kind": "MC",
+                        "Kind": "CB",
                         "Answers": [
                             {
                                 "Answer": "Ojek"
