@@ -87,166 +87,169 @@
                         "Kind": "MC",
                         "Answers": [
                             {
-                                "Answer": "BUMI"
+                                "Answer": "Baluwarti"
                             },
                             {
-                                "Answer": "KARANGASEM"
+                                "Answer": "Banyuanyar"
                             },
                             {
-                                "Answer": "PAJANG"
+                                "Answer": "Boyolali (OS)"
                             },
                             {
-                                "Answer": "PUCANG SAWIT"
+                                "Answer": "Bumi"
                             },
                             {
-                                "Answer": "JAGALAN"
+                                "Answer": "Danukusuman"
                             },
                             {
-                                "Answer": "PURWODINIGRATAN"
+                                "Answer": "Gajahan"
                             },
                             {
-                                "Answer": "SEWU"
+                                "Answer": "Gandekan"
                             },
                             {
-                                "Answer": "GANDEKAN"
+                                "Answer": "Gilingan"
                             },
                             {
-                                "Answer": "SANGKRAH"
+                                "Answer": "Jagalan"
                             },
                             {
-                                "Answer": "PASAR KLIWON"
+                                "Answer": "Jajar"
                             },
                             {
-                                "Answer": "KEDUNG LUMBU"
+                                "Answer": "Jayengan"
                             },
                             {
-                                "Answer": "SEMANGGI"
+                                "Answer": "Jebres"
                             },
                             {
-                                "Answer": "JOYOSURAN"
+                                "Answer": "Joyosuran"
                             },
                             {
-                                "Answer": "DANUKUSUMAN"
+                                "Answer": "Joyotakan"
                             },
                             {
-                                "Answer": "JOYOTAKAN"
+                                "Answer": "Kadipiro"
                             },
                             {
-                                "Answer": "BALUWARTI"
-                            },
-                            {
-                                "Answer": "GAJAHAN"
-                            },
-                            {
-                                "Answer": "JAYENGAN"
-                            },
-                            {
-                                "Answer": "KRATONAN"
-                            },
-                            {
-                                "Answer": "SERENGAN"
-                            },
-                            {
-                                "Answer": "TIPES"
-                            },
-                            {
-                                "Answer": "PANULARAN"
-                            },
-                            {
-                                "Answer": "KEMLAYAN"
-                            },
-                            {
-                                "Answer": "KAUMAN"
-                            },
-                            {
-                                "Answer": "KAMPUNG BARU"
-                            },
-                            {
-                                "Answer": "KEPRABON"
-                            },
-                            {
-                                "Answer": "TIMURAN"
-                            },
-                            {
-                                "Answer": "SRIWEDARI"
-                            },
-                            {
-                                "Answer": "PENUMPING"
-                            },
-                            {
-                                "Answer": "KETELAN"
-                            },
-                            {
-                                "Answer": "PUNGGAWAN"
-                            },
-                            {
-                                "Answer": "MANKUBUMEN"
-                            },
-                            {
-                                "Answer": "KESTALAN"
-                            },
-                            {
-                                "Answer": "SETABELAN"
-                            },
-                            {
-                                "Answer": "KEPATIHAN KULON"
-                            },
-                            {
-                                "Answer": "KEPATIHAN WETAN"
-                            },
-                            {
-                                "Answer": "TEGALHARJO"
-                            },
-                            {
-                                "Answer": "JEBRES"
-                            },
-                            {
-                                "Answer": "GILINGAN"
-                            },
-                            {
-                                "Answer": "SUMBER"
-                            },
-                            {
-                                "Answer": "MANAHAN"
-                            },
-                            {
-                                "Answer": "PURWOSARI"
-                            },
-                            {
-                                "Answer": "LAWEYAN"
-                            },
-                            {
-                                "Answer": "SONDAKAN"
-                            },
-                            {
-                                "Answer": "KERTEN"
-                            },
-                            {
-                                "Answer": "JAJAR"
-                            },
-                            {
-                                "Answer": "BANYUANYAR"
-                            },
-                            {
-                                "Answer": "MOJOSONGO"
-                            },
-                            {
-                                "Answer": "KADIPIRO"
-                            },
-                            {
-                                "Answer": "NUSUKAN"
+                                "Answer": "Kampung Baru"
                             },
                             {
                                 "Answer": "Karanganyar (OS)"
                             },
                             {
-                                "Answer": "Boyolasi (OS)"
+                                "Answer": "Karangasem"
+                            },
+                            {
+                                "Answer": "Kartasura (OS)"
+                            },
+                            {
+                                "Answer": "Kauman"
+                            },
+                            {
+                                "Answer": "Kedung Lumbu"
+                            },
+                            {
+                                "Answer": "Kemlayan"
+                            },
+                            {
+                                "Answer": "Kepatihan Kulon"
+                            },
+                            {
+                                "Answer": "Kepatihan Wetan"
+                            },
+                            {
+                                "Answer": "Keprabon"
+                            },
+                            {
+                                "Answer": "Kerten"
+                            },
+                            {
+                                "Answer": "Kestalan"
+                            },
+                            {
+                                "Answer": "Ketelan"
+                            },
+                            {
+                                "Answer": "Kratonan"
+                            },
+                            {
+                                "Answer": "Laweyan"
+                            },
+                            {
+                                "Answer": "Manahan"
+                            },
+                            {
+                                "Answer": "Mankubumen"
+                            },
+                            {
+                                "Answer": "Mojosongo"
+                            },
+                            {
+                                "Answer": "Nusukan"
+                            },
+                            {
+                                "Answer": "Pajang"
+                            },
+                            {
+                                "Answer": "Panularan"
+                            },
+                            {
+                                "Answer": "Pasar Kliwon"
+                            },
+                            {
+                                "Answer": "Penumping"
+                            },
+                            {
+                                "Answer": "Pucang Sawit"
+                            },
+                            {
+                                "Answer": "Punggawan"
+                            },
+                            {
+                                "Answer": "Purwodinigratan"
+                            },
+                            {
+                                "Answer": "Purwosari"
+                            },
+                            {
+                                "Answer": "Sangkrah"
+                            },
+                            {
+                                "Answer": "Semanggi"
+                            },
+                            {
+                                "Answer": "Serengan"
+                            },
+                            {
+                                "Answer": "Setabelan"
+                            },
+                            {
+                                "Answer": "Sewu"
+                            },
+                            {
+                                "Answer": "Sondakan"
+                            },
+                            {
+                                "Answer": "Sriwedari"
+                            },
+                            {
+                                "Answer": "Sudiroprajan"
                             },
                             {
                                 "Answer": "Sukoharjo (OS)"
                             },
                             {
-                                "Answer": "Kartasura (OS)"
+                                "Answer": "Sumber"
+                            },
+                            {
+                                "Answer": "Tegalharjo"
+                            },
+                            {
+                                "Answer": "Timuran"
+                            },
+                            {
+                                "Answer": "Tipes"
                             }
                         ]
                     },
@@ -256,166 +259,169 @@
                         "Kind": "MC",
                         "Answers": [
                             {
-                                "Answer": "BUMI"
+                                "Answer": "Baluwarti"
                             },
                             {
-                                "Answer": "KARANGASEM"
+                                "Answer": "Banyuanyar"
                             },
                             {
-                                "Answer": "PAJANG"
+                                "Answer": "Boyolali (OS)"
                             },
                             {
-                                "Answer": "PUCANG SAWIT"
+                                "Answer": "Bumi"
                             },
                             {
-                                "Answer": "JAGALAN"
+                                "Answer": "Danukusuman"
                             },
                             {
-                                "Answer": "PURWODINIGRATAN"
+                                "Answer": "Gajahan"
                             },
                             {
-                                "Answer": "SEWU"
+                                "Answer": "Gandekan"
                             },
                             {
-                                "Answer": "GANDEKAN"
+                                "Answer": "Gilingan"
                             },
                             {
-                                "Answer": "SANGKRAH"
+                                "Answer": "Jagalan"
                             },
                             {
-                                "Answer": "PASAR KLIWON"
+                                "Answer": "Jajar"
                             },
                             {
-                                "Answer": "KEDUNG LUMBU"
+                                "Answer": "Jayengan"
                             },
                             {
-                                "Answer": "SEMANGGI"
+                                "Answer": "Jebres"
                             },
                             {
-                                "Answer": "JOYOSURAN"
+                                "Answer": "Joyosuran"
                             },
                             {
-                                "Answer": "DANUKUSUMAN"
+                                "Answer": "Joyotakan"
                             },
                             {
-                                "Answer": "JOYOTAKAN"
+                                "Answer": "Kadipiro"
                             },
                             {
-                                "Answer": "BALUWARTI"
-                            },
-                            {
-                                "Answer": "GAJAHAN"
-                            },
-                            {
-                                "Answer": "JAYENGAN"
-                            },
-                            {
-                                "Answer": "KRATONAN"
-                            },
-                            {
-                                "Answer": "SERENGAN"
-                            },
-                            {
-                                "Answer": "TIPES"
-                            },
-                            {
-                                "Answer": "PANULARAN"
-                            },
-                            {
-                                "Answer": "KEMLAYAN"
-                            },
-                            {
-                                "Answer": "KAUMAN"
-                            },
-                            {
-                                "Answer": "KAMPUNG BARU"
-                            },
-                            {
-                                "Answer": "KEPRABON"
-                            },
-                            {
-                                "Answer": "TIMURAN"
-                            },
-                            {
-                                "Answer": "SRIWEDARI"
-                            },
-                            {
-                                "Answer": "PENUMPING"
-                            },
-                            {
-                                "Answer": "KETELAN"
-                            },
-                            {
-                                "Answer": "PUNGGAWAN"
-                            },
-                            {
-                                "Answer": "MANKUBUMEN"
-                            },
-                            {
-                                "Answer": "KESTALAN"
-                            },
-                            {
-                                "Answer": "SETABELAN"
-                            },
-                            {
-                                "Answer": "KEPATIHAN KULON"
-                            },
-                            {
-                                "Answer": "KEPATIHAN WETAN"
-                            },
-                            {
-                                "Answer": "TEGALHARJO"
-                            },
-                            {
-                                "Answer": "JEBRES"
-                            },
-                            {
-                                "Answer": "GILINGAN"
-                            },
-                            {
-                                "Answer": "SUMBER"
-                            },
-                            {
-                                "Answer": "MANAHAN"
-                            },
-                            {
-                                "Answer": "PURWOSARI"
-                            },
-                            {
-                                "Answer": "LAWEYAN"
-                            },
-                            {
-                                "Answer": "SONDAKAN"
-                            },
-                            {
-                                "Answer": "KERTEN"
-                            },
-                            {
-                                "Answer": "JAJAR"
-                            },
-                            {
-                                "Answer": "BANYUANYAR"
-                            },
-                            {
-                                "Answer": "MOJOSONGO"
-                            },
-                            {
-                                "Answer": "KADIPIRO"
-                            },
-                            {
-                                "Answer": "NUSUKAN"
+                                "Answer": "Kampung Baru"
                             },
                             {
                                 "Answer": "Karanganyar (OS)"
                             },
                             {
-                                "Answer": "Boyolasi (OS)"
+                                "Answer": "Karangasem"
+                            },
+                            {
+                                "Answer": "Kartasura (OS)"
+                            },
+                            {
+                                "Answer": "Kauman"
+                            },
+                            {
+                                "Answer": "Kedung Lumbu"
+                            },
+                            {
+                                "Answer": "Kemlayan"
+                            },
+                            {
+                                "Answer": "Kepatihan Kulon"
+                            },
+                            {
+                                "Answer": "Kepatihan Wetan"
+                            },
+                            {
+                                "Answer": "Keprabon"
+                            },
+                            {
+                                "Answer": "Kerten"
+                            },
+                            {
+                                "Answer": "Kestalan"
+                            },
+                            {
+                                "Answer": "Ketelan"
+                            },
+                            {
+                                "Answer": "Kratonan"
+                            },
+                            {
+                                "Answer": "Laweyan"
+                            },
+                            {
+                                "Answer": "Manahan"
+                            },
+                            {
+                                "Answer": "Mankubumen"
+                            },
+                            {
+                                "Answer": "Mojosongo"
+                            },
+                            {
+                                "Answer": "Nusukan"
+                            },
+                            {
+                                "Answer": "Pajang"
+                            },
+                            {
+                                "Answer": "Panularan"
+                            },
+                            {
+                                "Answer": "Pasar Kliwon"
+                            },
+                            {
+                                "Answer": "Penumping"
+                            },
+                            {
+                                "Answer": "Pucang Sawit"
+                            },
+                            {
+                                "Answer": "Punggawan"
+                            },
+                            {
+                                "Answer": "Purwodinigratan"
+                            },
+                            {
+                                "Answer": "Purwosari"
+                            },
+                            {
+                                "Answer": "Sangkrah"
+                            },
+                            {
+                                "Answer": "Semanggi"
+                            },
+                            {
+                                "Answer": "Serengan"
+                            },
+                            {
+                                "Answer": "Setabelan"
+                            },
+                            {
+                                "Answer": "Sewu"
+                            },
+                            {
+                                "Answer": "Sondakan"
+                            },
+                            {
+                                "Answer": "Sriwedari"
+                            },
+                            {
+                                "Answer": "Sudiroprajan"
                             },
                             {
                                 "Answer": "Sukoharjo (OS)"
                             },
                             {
-                                "Answer": "Kartasura (OS)"
+                                "Answer": "Sumber"
+                            },
+                            {
+                                "Answer": "Tegalharjo"
+                            },
+                            {
+                                "Answer": "Timuran"
+                            },
+                            {
+                                "Answer": "Tipes"
                             }
                         ]
                     },
@@ -710,166 +716,169 @@
                         "Kind": "MC",
                         "Answers": [
                             {
-                                "Answer": "BUMI"
+                                "Answer": "Baluwarti"
                             },
                             {
-                                "Answer": "KARANGASEM"
+                                "Answer": "Banyuanyar"
                             },
                             {
-                                "Answer": "PAJANG"
+                                "Answer": "Boyolali (OS)"
                             },
                             {
-                                "Answer": "PUCANG SAWIT"
+                                "Answer": "Bumi"
                             },
                             {
-                                "Answer": "JAGALAN"
+                                "Answer": "Danukusuman"
                             },
                             {
-                                "Answer": "PURWODINIGRATAN"
+                                "Answer": "Gajahan"
                             },
                             {
-                                "Answer": "SEWU"
+                                "Answer": "Gandekan"
                             },
                             {
-                                "Answer": "GANDEKAN"
+                                "Answer": "Gilingan"
                             },
                             {
-                                "Answer": "SANGKRAH"
+                                "Answer": "Jagalan"
                             },
                             {
-                                "Answer": "PASAR KLIWON"
+                                "Answer": "Jajar"
                             },
                             {
-                                "Answer": "KEDUNG LUMBU"
+                                "Answer": "Jayengan"
                             },
                             {
-                                "Answer": "SEMANGGI"
+                                "Answer": "Jebres"
                             },
                             {
-                                "Answer": "JOYOSURAN"
+                                "Answer": "Joyosuran"
                             },
                             {
-                                "Answer": "DANUKUSUMAN"
+                                "Answer": "Joyotakan"
                             },
                             {
-                                "Answer": "JOYOTAKAN"
+                                "Answer": "Kadipiro"
                             },
                             {
-                                "Answer": "BALUWARTI"
-                            },
-                            {
-                                "Answer": "GAJAHAN"
-                            },
-                            {
-                                "Answer": "JAYENGAN"
-                            },
-                            {
-                                "Answer": "KRATONAN"
-                            },
-                            {
-                                "Answer": "SERENGAN"
-                            },
-                            {
-                                "Answer": "TIPES"
-                            },
-                            {
-                                "Answer": "PANULARAN"
-                            },
-                            {
-                                "Answer": "KEMLAYAN"
-                            },
-                            {
-                                "Answer": "KAUMAN"
-                            },
-                            {
-                                "Answer": "KAMPUNG BARU"
-                            },
-                            {
-                                "Answer": "KEPRABON"
-                            },
-                            {
-                                "Answer": "TIMURAN"
-                            },
-                            {
-                                "Answer": "SRIWEDARI"
-                            },
-                            {
-                                "Answer": "PENUMPING"
-                            },
-                            {
-                                "Answer": "KETELAN"
-                            },
-                            {
-                                "Answer": "PUNGGAWAN"
-                            },
-                            {
-                                "Answer": "MANKUBUMEN"
-                            },
-                            {
-                                "Answer": "KESTALAN"
-                            },
-                            {
-                                "Answer": "SETABELAN"
-                            },
-                            {
-                                "Answer": "KEPATIHAN KULON"
-                            },
-                            {
-                                "Answer": "KEPATIHAN WETAN"
-                            },
-                            {
-                                "Answer": "TEGALHARJO"
-                            },
-                            {
-                                "Answer": "JEBRES"
-                            },
-                            {
-                                "Answer": "GILINGAN"
-                            },
-                            {
-                                "Answer": "SUMBER"
-                            },
-                            {
-                                "Answer": "MANAHAN"
-                            },
-                            {
-                                "Answer": "PURWOSARI"
-                            },
-                            {
-                                "Answer": "LAWEYAN"
-                            },
-                            {
-                                "Answer": "SONDAKAN"
-                            },
-                            {
-                                "Answer": "KERTEN"
-                            },
-                            {
-                                "Answer": "JAJAR"
-                            },
-                            {
-                                "Answer": "BANYUANYAR"
-                            },
-                            {
-                                "Answer": "MOJOSONGO"
-                            },
-                            {
-                                "Answer": "KADIPIRO"
-                            },
-                            {
-                                "Answer": "NUSUKAN"
+                                "Answer": "Kampung Baru"
                             },
                             {
                                 "Answer": "Karanganyar (OS)"
                             },
                             {
-                                "Answer": "Boyolasi (OS)"
+                                "Answer": "Karangasem"
+                            },
+                            {
+                                "Answer": "Kartasura (OS)"
+                            },
+                            {
+                                "Answer": "Kauman"
+                            },
+                            {
+                                "Answer": "Kedung Lumbu"
+                            },
+                            {
+                                "Answer": "Kemlayan"
+                            },
+                            {
+                                "Answer": "Kepatihan Kulon"
+                            },
+                            {
+                                "Answer": "Kepatihan Wetan"
+                            },
+                            {
+                                "Answer": "Keprabon"
+                            },
+                            {
+                                "Answer": "Kerten"
+                            },
+                            {
+                                "Answer": "Kestalan"
+                            },
+                            {
+                                "Answer": "Ketelan"
+                            },
+                            {
+                                "Answer": "Kratonan"
+                            },
+                            {
+                                "Answer": "Laweyan"
+                            },
+                            {
+                                "Answer": "Manahan"
+                            },
+                            {
+                                "Answer": "Mankubumen"
+                            },
+                            {
+                                "Answer": "Mojosongo"
+                            },
+                            {
+                                "Answer": "Nusukan"
+                            },
+                            {
+                                "Answer": "Pajang"
+                            },
+                            {
+                                "Answer": "Panularan"
+                            },
+                            {
+                                "Answer": "Pasar Kliwon"
+                            },
+                            {
+                                "Answer": "Penumping"
+                            },
+                            {
+                                "Answer": "Pucang Sawit"
+                            },
+                            {
+                                "Answer": "Punggawan"
+                            },
+                            {
+                                "Answer": "Purwodinigratan"
+                            },
+                            {
+                                "Answer": "Purwosari"
+                            },
+                            {
+                                "Answer": "Sangkrah"
+                            },
+                            {
+                                "Answer": "Semanggi"
+                            },
+                            {
+                                "Answer": "Serengan"
+                            },
+                            {
+                                "Answer": "Setabelan"
+                            },
+                            {
+                                "Answer": "Sewu"
+                            },
+                            {
+                                "Answer": "Sondakan"
+                            },
+                            {
+                                "Answer": "Sriwedari"
+                            },
+                            {
+                                "Answer": "Sudiroprajan"
                             },
                             {
                                 "Answer": "Sukoharjo (OS)"
                             },
                             {
-                                "Answer": "Kartasura (OS)"
+                                "Answer": "Sumber"
+                            },
+                            {
+                                "Answer": "Tegalharjo"
+                            },
+                            {
+                                "Answer": "Timuran"
+                            },
+                            {
+                                "Answer": "Tipes"
                             }
                         ]
                     },
@@ -879,166 +888,169 @@
                         "Kind": "MC",
                         "Answers": [
                             {
-                                "Answer": "BUMI"
+                                "Answer": "Baluwarti"
                             },
                             {
-                                "Answer": "KARANGASEM"
+                                "Answer": "Banyuanyar"
                             },
                             {
-                                "Answer": "PAJANG"
+                                "Answer": "Boyolali (OS)"
                             },
                             {
-                                "Answer": "PUCANG SAWIT"
+                                "Answer": "Bumi"
                             },
                             {
-                                "Answer": "JAGALAN"
+                                "Answer": "Danukusuman"
                             },
                             {
-                                "Answer": "PURWODINIGRATAN"
+                                "Answer": "Gajahan"
                             },
                             {
-                                "Answer": "SEWU"
+                                "Answer": "Gandekan"
                             },
                             {
-                                "Answer": "GANDEKAN"
+                                "Answer": "Gilingan"
                             },
                             {
-                                "Answer": "SANGKRAH"
+                                "Answer": "Jagalan"
                             },
                             {
-                                "Answer": "PASAR KLIWON"
+                                "Answer": "Jajar"
                             },
                             {
-                                "Answer": "KEDUNG LUMBU"
+                                "Answer": "Jayengan"
                             },
                             {
-                                "Answer": "SEMANGGI"
+                                "Answer": "Jebres"
                             },
                             {
-                                "Answer": "JOYOSURAN"
+                                "Answer": "Joyosuran"
                             },
                             {
-                                "Answer": "DANUKUSUMAN"
+                                "Answer": "Joyotakan"
                             },
                             {
-                                "Answer": "JOYOTAKAN"
+                                "Answer": "Kadipiro"
                             },
                             {
-                                "Answer": "BALUWARTI"
-                            },
-                            {
-                                "Answer": "GAJAHAN"
-                            },
-                            {
-                                "Answer": "JAYENGAN"
-                            },
-                            {
-                                "Answer": "KRATONAN"
-                            },
-                            {
-                                "Answer": "SERENGAN"
-                            },
-                            {
-                                "Answer": "TIPES"
-                            },
-                            {
-                                "Answer": "PANULARAN"
-                            },
-                            {
-                                "Answer": "KEMLAYAN"
-                            },
-                            {
-                                "Answer": "KAUMAN"
-                            },
-                            {
-                                "Answer": "KAMPUNG BARU"
-                            },
-                            {
-                                "Answer": "KEPRABON"
-                            },
-                            {
-                                "Answer": "TIMURAN"
-                            },
-                            {
-                                "Answer": "SRIWEDARI"
-                            },
-                            {
-                                "Answer": "PENUMPING"
-                            },
-                            {
-                                "Answer": "KETELAN"
-                            },
-                            {
-                                "Answer": "PUNGGAWAN"
-                            },
-                            {
-                                "Answer": "MANKUBUMEN"
-                            },
-                            {
-                                "Answer": "KESTALAN"
-                            },
-                            {
-                                "Answer": "SETABELAN"
-                            },
-                            {
-                                "Answer": "KEPATIHAN KULON"
-                            },
-                            {
-                                "Answer": "KEPATIHAN WETAN"
-                            },
-                            {
-                                "Answer": "TEGALHARJO"
-                            },
-                            {
-                                "Answer": "JEBRES"
-                            },
-                            {
-                                "Answer": "GILINGAN"
-                            },
-                            {
-                                "Answer": "SUMBER"
-                            },
-                            {
-                                "Answer": "MANAHAN"
-                            },
-                            {
-                                "Answer": "PURWOSARI"
-                            },
-                            {
-                                "Answer": "LAWEYAN"
-                            },
-                            {
-                                "Answer": "SONDAKAN"
-                            },
-                            {
-                                "Answer": "KERTEN"
-                            },
-                            {
-                                "Answer": "JAJAR"
-                            },
-                            {
-                                "Answer": "BANYUANYAR"
-                            },
-                            {
-                                "Answer": "MOJOSONGO"
-                            },
-                            {
-                                "Answer": "KADIPIRO"
-                            },
-                            {
-                                "Answer": "NUSUKAN"
+                                "Answer": "Kampung Baru"
                             },
                             {
                                 "Answer": "Karanganyar (OS)"
                             },
                             {
-                                "Answer": "Boyolasi (OS)"
+                                "Answer": "Karangasem"
+                            },
+                            {
+                                "Answer": "Kartasura (OS)"
+                            },
+                            {
+                                "Answer": "Kauman"
+                            },
+                            {
+                                "Answer": "Kedung Lumbu"
+                            },
+                            {
+                                "Answer": "Kemlayan"
+                            },
+                            {
+                                "Answer": "Kepatihan Kulon"
+                            },
+                            {
+                                "Answer": "Kepatihan Wetan"
+                            },
+                            {
+                                "Answer": "Keprabon"
+                            },
+                            {
+                                "Answer": "Kerten"
+                            },
+                            {
+                                "Answer": "Kestalan"
+                            },
+                            {
+                                "Answer": "Ketelan"
+                            },
+                            {
+                                "Answer": "Kratonan"
+                            },
+                            {
+                                "Answer": "Laweyan"
+                            },
+                            {
+                                "Answer": "Manahan"
+                            },
+                            {
+                                "Answer": "Mankubumen"
+                            },
+                            {
+                                "Answer": "Mojosongo"
+                            },
+                            {
+                                "Answer": "Nusukan"
+                            },
+                            {
+                                "Answer": "Pajang"
+                            },
+                            {
+                                "Answer": "Panularan"
+                            },
+                            {
+                                "Answer": "Pasar Kliwon"
+                            },
+                            {
+                                "Answer": "Penumping"
+                            },
+                            {
+                                "Answer": "Pucang Sawit"
+                            },
+                            {
+                                "Answer": "Punggawan"
+                            },
+                            {
+                                "Answer": "Purwodinigratan"
+                            },
+                            {
+                                "Answer": "Purwosari"
+                            },
+                            {
+                                "Answer": "Sangkrah"
+                            },
+                            {
+                                "Answer": "Semanggi"
+                            },
+                            {
+                                "Answer": "Serengan"
+                            },
+                            {
+                                "Answer": "Setabelan"
+                            },
+                            {
+                                "Answer": "Sewu"
+                            },
+                            {
+                                "Answer": "Sondakan"
+                            },
+                            {
+                                "Answer": "Sriwedari"
+                            },
+                            {
+                                "Answer": "Sudiroprajan"
                             },
                             {
                                 "Answer": "Sukoharjo (OS)"
                             },
                             {
-                                "Answer": "Kartasura (OS)"
+                                "Answer": "Sumber"
+                            },
+                            {
+                                "Answer": "Tegalharjo"
+                            },
+                            {
+                                "Answer": "Timuran"
+                            },
+                            {
+                                "Answer": "Tipes"
                             }
                         ]
                     },
