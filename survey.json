@@ -56,28 +56,6 @@
                         ]
                     },
                     {
-                        "id": "Eq2income",
-                        "Question": "Household income means the cumulative total of income for the family",
-                        "Kind": "MC",
-                        "Answers": [
-                            {
-                                "Answer": "< Rp 500.000"
-                            },
-                            {
-                                "Answer": "Rp 500.000 - Rp 1.000.000"
-                            },
-                            {
-                                "Answer": "Rp 1.000.000 - Rp 2.500.000"
-                            },
-                            {
-                                "Answer": "Rp 2.500.000 - Rp 5.000.000"
-                            },
-                            {
-                                "Answer": "> Rp 5.000.000"
-                            }
-                        ]
-                    },
-                    {
                         "id": "Eq3mobile",
                         "Question": "Mobile phone ownership",
                         "Kind": "MC",
@@ -641,6 +619,28 @@
                             }
                         ],
                         "Jump": "End"
+                    },
+                    {
+                        "id": "Eq2income",
+                        "Question": "Household income means the cumulative total of income for the family",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "< Rp 500.000"
+                            },
+                            {
+                                "Answer": "Rp 500.000 - Rp 1.000.000"
+                            },
+                            {
+                                "Answer": "Rp 1.000.000 - Rp 2.500.000"
+                            },
+                            {
+                                "Answer": "Rp 2.500.000 - Rp 5.000.000"
+                            },
+                            {
+                                "Answer": "> Rp 5.000.000"
+                            }
+                        ]
                     }
                 ]
             },
@@ -675,28 +675,6 @@
                             },
                             {
                                 "Answer": "70+"
-                            }
-                        ]
-                    },
-                    {
-                        "id": "Iq2income",
-                        "Question": "Penghasilan keluarga meliputi total penghasilan seluruh anggota keluarga",
-                        "Kind": "MC",
-                        "Answers": [
-                            {
-                                "Answer": "< Rp 500.000"
-                            },
-                            {
-                                "Answer": "Rp 500.000 - Rp 1.000.000"
-                            },
-                            {
-                                "Answer": "Rp 1.000.000 - Rp 2.500.000"
-                            },
-                            {
-                                "Answer": "Rp 2.500.000 - Rp 5.000.000"
-                            },
-                            {
-                                "Answer": "> Rp 5.000.000"
                             }
                         ]
                     },
@@ -1261,6 +1239,28 @@
                             },
                             {
                                 "Answer": "Sangat tidak puas"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "Iq2income",
+                        "Question": "Penghasilan keluarga meliputi total penghasilan seluruh anggota keluarga",
+                        "Kind": "MC",
+                        "Answers": [
+                            {
+                                "Answer": "< Rp 500.000"
+                            },
+                            {
+                                "Answer": "Rp 500.000 - Rp 1.000.000"
+                            },
+                            {
+                                "Answer": "Rp 1.000.000 - Rp 2.500.000"
+                            },
+                            {
+                                "Answer": "Rp 2.500.000 - Rp 5.000.000"
+                            },
+                            {
+                                "Answer": "> Rp 5.000.000"
                             }
                         ]
                     }
