@@ -623,8 +623,7 @@
                             {
                                 "Answer": "Very dissatisfied"
                             }
-                        ],
-                        "Jump": "End"
+                        ]
                     },
                     {
                         "id": "Eq2income",
@@ -646,7 +645,8 @@
                             {
                                 "Answer": "> Rp 5.000.000"
                             }
-                        ]
+                        ],
+                        "Jump": "End"
                     }
                 ]
             },
